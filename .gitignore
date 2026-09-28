@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos de editor
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.log

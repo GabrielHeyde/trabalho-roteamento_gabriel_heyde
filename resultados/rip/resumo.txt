@@ -1,0 +1,27 @@
+RIP - Resumo das métricas
+
+Rotas aprendidas:
+R1: 8
+R2: 8
+R3: 7
+R4: 7
+R5: 8
+
+Latência R1 -> R5:
+20 pacotes enviados
+20 pacotes recebidos
+Perda: 0%
+RTT médio: 0.162 ms
+
+Convergência:
+Falha simulada: enlace R3-R5
+Rota original: via R3 (10.0.13.3), métrica 3
+Rota alternativa: via R2 (10.0.12.3), métrica 4
+Tempo observado: 19866 ms
+
+Tráfego de controle no enlace R1-R2:
+Janela de captura: 60 segundos
+Pacotes RIP observados: 2
+Tamanho observado por pacote: 164 bytes
+Volume observado: 328 bytes
+Taxa média observada: aproximadamente 43.7 bit/s

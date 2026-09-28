@@ -1,0 +1,24 @@
+=== Teste de convergência OSPF ===
+Falha simulada: enlace R3-R5 (R3 eth1 / 10.0.35.2)
+Ponto de observação: tabela de roteamento do R3
+Rota alternativa esperada: via R4 (10.0.34.3)
+
+Rota antes da falha:
+Routing entry for 192.168.5.0/24
+  Known via "bgp", distance 200, metric 0, best
+  Last update 00:00:00 ago
+  * 10.0.34.3, via eth2, weight 1
+
+
+Derrubando enlace R3-R5...
+
+Rota alternativa instalada:
+Routing entry for 192.168.5.0/24
+  Known via "bgp", distance 200, metric 0, best
+  Last update 00:00:00 ago
+  * 10.0.34.3, via eth2, weight 1
+
+Tempo de convergência: 173 ms
+
+Restaurando enlace R3-R5...
+Enlace restaurado.

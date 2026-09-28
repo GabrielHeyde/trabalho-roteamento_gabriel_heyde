@@ -1,0 +1,7 @@
+2026-09-28 03:07:30.939402 IP 10.0.12.2.46642 > 10.0.12.3.179: Flags [P.], seq 3018567033:3018567052, ack 3887723406, win 126, options [nop,nop,TS val 4258077742 ecr 943170301], length 19: BGP
+2026-09-28 03:07:30.942694 IP 10.0.12.3.179 > 10.0.12.2.46642: Flags [P.], seq 1:20, ack 19, win 128, options [nop,nop,TS val 943230301 ecr 4258077742], length 19: BGP
+2026-09-28 03:07:30.942723 IP 10.0.12.2.46642 > 10.0.12.3.179: Flags [.], ack 20, win 126, options [nop,nop,TS val 4258077745 ecr 943230301], length 0
+2026-09-28 03:08:30.933996 IP 10.0.12.2.46642 > 10.0.12.3.179: Flags [P.], seq 19:38, ack 20, win 126, options [nop,nop,TS val 4258137742 ecr 943230301], length 19: BGP
+2026-09-28 03:08:30.937324 IP 10.0.12.3.179 > 10.0.12.2.46642: Flags [P.], seq 20:39, ack 38, win 128, options [nop,nop,TS val 943290301 ecr 4258137742], length 19: BGP
+2026-09-28 03:08:30.937345 IP 10.0.12.2.46642 > 10.0.12.3.179: Flags [.], ack 39, win 126, options [nop,nop,TS val 4258137745 ecr 943290301], length 0
+
