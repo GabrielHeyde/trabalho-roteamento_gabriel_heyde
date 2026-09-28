@@ -558,7 +558,15 @@ Isso permite consultar tanto os resultados apresentados quanto as saídas origin
 
 ---
 
-# 12. Conclusão
+# 12. Vídeo de demonstração
+
+A demonstração prática da implementação, incluindo o funcionamento dos protocolos RIP, OSPF e BGP e um teste de convergência após falha de enlace, está disponível no vídeo abaixo:
+
+[▶️ Assistir ao vídeo de demonstração](video/trabalho_roteamento.mp4)
+
+---
+
+# 13. Conclusão
 
 A implementação permitiu observar na prática o funcionamento de três protocolos de roteamento com características diferentes.
 
