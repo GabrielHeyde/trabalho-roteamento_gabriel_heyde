@@ -2,7 +2,7 @@
 
 **Aluno:** Gabriel Heyde  
 **Instituição:** Universidade do Vale do Rio dos Sinos — UNISINOS  
-**Disciplina:** Fundamentos de Sistemas Operacionais  
+**Disciplina:** Redes de Computadores: Internetworking, Roteamento e Transmissão
 
 ---
 
